@@ -2,10 +2,8 @@
   "name": "unsplash-photos",
   "version": "1.0.0",
   "description": "Unsplash Photos - get list of popular / latest / oldest photos or search by keyword.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/daveedx/unsplash-photos"
-  },
+  "author": "iamdave86 (https://github.com/iamdave86)",
+  "repository": "https://github.com/iamdave86/unsplash-photos",
   "keywords": [
     "javascript",
     "single-page-app",
